@@ -1,4 +1,4 @@
-# Game group 61
+# Game 
 
 In this short guide we will explain how to build and run our game.
 
@@ -27,4 +27,4 @@ make all
 And respect the rules of the game 
 
 ## License
-Binnert Prins, Tom Kerssemakers
+Tom Kerssemakers
