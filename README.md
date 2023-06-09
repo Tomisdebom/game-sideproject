@@ -25,6 +25,3 @@ make all
 
 ## Enjoy!
 And respect the rules of the game 
-
-## License
-Tom Kerssemakers
